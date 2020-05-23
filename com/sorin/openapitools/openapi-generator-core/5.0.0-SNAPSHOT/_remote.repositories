@@ -1,6 +1,0 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Sun May 24 01:15:08 EEST 2020
-openapi-generator-core-5.0.0-SNAPSHOT.pom>=
-openapi-generator-core-5.0.0-SNAPSHOT-javadoc.jar>=
-openapi-generator-core-5.0.0-SNAPSHOT.jar>=
-openapi-generator-core-5.0.0-SNAPSHOT-sources.jar>=
